@@ -745,7 +745,7 @@
 	font-family: "Gilroy", Arial, sans-serif;
 	font-weight: 400;
 	padding: 8px 20px;
-	border-radius: 28px;
+	border-radius: 8px;
 	border: none;
 	transition: 0.3s;
 	cursor: pointer;
